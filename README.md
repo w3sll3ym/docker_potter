@@ -28,4 +28,9 @@ A aplicação foi construída utilizando a seguinte stack tecnológica:
 
 ## Prints da Aplicação
 
-    ![alt text](print1.png) ![alt text](print3.png) ![alt text](print2.png)
+<img width="2816" height="1396" alt="print1" src="https://github.com/user-attachments/assets/a9d4867c-41bd-4013-90a5-0654db0b20a1" />
+<img width="2816" height="1392" alt="print2" src="https://github.com/user-attachments/assets/a0ce5cce-0703-4275-98c9-8768af456857" />
+<img width="2816" height="1392" alt="print3" src="https://github.com/user-attachments/assets/abd31c3d-57a3-4d06-bbc4-33b2a5109dd4" />
+
+
+
